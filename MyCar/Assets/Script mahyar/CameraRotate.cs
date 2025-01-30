@@ -11,12 +11,11 @@ public class CameraRotate : MonoBehaviour
     private Vector3 R = new Vector3(8.55f, 2.26f, 0.32f);
     private Vector3 L = new Vector3(-8.55f, 2.26f, 0.32f);
     public RCC_CarControllerV3 car;
-    public CinemachineBasicMultiChannelPerlin noise;
+   
 
     void Start()
     {
-        noise.m_AmplitudeGain = 0;
-        noise = VirtualCamera.GetCinemachineComponent<CinemachineBasicMultiChannelPerlin>();
+      
     }
 
     
@@ -24,14 +23,14 @@ public class CameraRotate : MonoBehaviour
     {
       if(car.speed <=  8)
         {
-            noise.m_AmplitudeGain = 0.4f;
+       
         }
         else
         {
-            noise.m_AmplitudeGain = 0;
+          
         }
         var transposer = VirtualCamera.GetCinemachineComponent<CinemachineTransposer>();
-        if (Input.GetKey(KeyCode.J))
+        if (Input.GetKey(KeyCode.R))
         {
             transposer.m_FollowOffset = newOffback;
         }

@@ -3,7 +3,387 @@ guid: bef26eaabded42440b8c5370c9167f1d
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ARm4_Details_D
+    second: {fileID: 2100000, guid: 8af30a6e19077a342bf2148bb35c1658, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ARm4_INTER_tcz
+    second: {fileID: 2100000, guid: 188c711b34535244fb94d1531e1041df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ARm4_INT_Belt
+    second: {fileID: 2100000, guid: ad71247ff7f56f549bd194be1d12bcf2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ARm4_INT_Decals
+    second: {fileID: 2100000, guid: 7c97e024120adb44dbffdc2bb18f23c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ARm4_INT_speakers
+    second: {fileID: 2100000, guid: e820e5436e1d65442ac61164883cdba2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ARm4_Light_D
+    second: {fileID: 2100000, guid: 6e27064c491e2d74382600562cc59da8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ARm4_Metal_D
+    second: {fileID: 2100000, guid: 1aa4ee42cb81dfa4ea7811abc839073d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ARm4_Mpower_en
+    second: {fileID: 2100000, guid: 409e04d77ee59334796d7522f5ba39e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ARm4_V_logo
+    second: {fileID: 2100000, guid: d381b73a268fd064f890425559cc98ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ARm4_alcnt
+    second: {fileID: 2100000, guid: b4dfc82f05ea3554aada45f93768ae87, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ARm4_chmsl
+    second: {fileID: 2100000, guid: 30a0c1e0ad8bb474182ddac412d69841, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ARm4_color_interior
+    second: {fileID: 2100000, guid: f8d6fd75772af7e468c0c6af2985d192, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ARm4_common_alum
+    second: {fileID: 2100000, guid: 50dd0e2d893f0a84081bdc7b276cbe6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ARm4_common_black
+    second: {fileID: 2100000, guid: 983cc27a77a1a454d8167d3dc586d670, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ARm4_common_black.001
+    second: {fileID: 2100000, guid: db03232f4854cfb4e96f8ae83e031bee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ARm4_common_black.003
+    second: {fileID: 2100000, guid: d12df3fdd0c62894eabcfa5bd1c2ab4c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ARm4_common_bmw_logo
+    second: {fileID: 2100000, guid: ed792a7fd973888488b3a8c611079ed6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ARm4_common_carbon
+    second: {fileID: 2100000, guid: 0167ccf4c0e5cf44d8663520f5b57e4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ARm4_common_chrome
+    second: {fileID: 2100000, guid: 6ada0a572f2517444848a977976d3868, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ARm4_common_engine
+    second: {fileID: 2100000, guid: 77d27837492d49b4c9a6e45710a9c02d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ARm4_common_metal
+    second: {fileID: 2100000, guid: d984e3c802d433d428c82e311085ce77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ARm4_crystal_interior
+    second: {fileID: 2100000, guid: dae5607fc719ea54d93ac713198c922e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ARm4_forged_carbon
+    second: {fileID: 2100000, guid: f251bdd7d73f38d40860dcc99e5949dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ARm4_glass
+    second: {fileID: 2100000, guid: 1e1e2226f9b8a1a408a135d4b028a416, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ARm4_glass_head_tinted
+    second: {fileID: 2100000, guid: 49bd0ebc053936847a3dd9f8fa5b45ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ARm4_glass_tinted
+    second: {fileID: 2100000, guid: d695548415f8f454d8cf6e4446355e3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ARm4_gray3
+    second: {fileID: 2100000, guid: b5dd55081fff99d44862b573b06f41f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ARm4_grill_2
+    second: {fileID: 2100000, guid: 0d39a7d61a72c8542b2b0e1d6a7085e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ARm4_headsignal_L
+    second: {fileID: 2100000, guid: 7019618d3ca906346b0fb136fbde90a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ARm4_headsignal_L_alt.001
+    second: {fileID: 2100000, guid: 1f64d845329e93b4484de69f4dc8ee00, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ARm4_highbeam
+    second: {fileID: 2100000, guid: 605f456e01b34674c96fd66d23a878de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ARm4_int_decals_pad
+    second: {fileID: 2100000, guid: 150927d6232dd80488768ae79636de9e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ARm4_int_seams
+    second: {fileID: 2100000, guid: 48b0946eb96b18341adbaf3163645a14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ARm4_interior_black
+    second: {fileID: 2100000, guid: 12316a78ede0f704f88a04bc08e7a7ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ARm4_interior_hazard
+    second: {fileID: 2100000, guid: d035f6fd1929e784583e6ef698f355f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ARm4_interior_symbols
+    second: {fileID: 2100000, guid: b80a5972f8123f14faedcc81828a1a2a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ARm4_lowbeam
+    second: {fileID: 2100000, guid: 52da90548cfce474bac64971b48e9f5c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ARm4_m_bmw_logo
+    second: {fileID: 2100000, guid: 50e1ffd274bf05941841e48a8008f1b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ARm4_main
+    second: {fileID: 2100000, guid: e4d58b98e6d4dcc499c724776d06fee2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ARm4_mechanicals_d
+    second: {fileID: 2100000, guid: 4b6f6ce55e104af4c92cd6eb774f4a55, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ARm4_rev.001
+    second: {fileID: 2100000, guid: 793dca9aaae9d204a80180b36360574e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ARm4_rgb
+    second: {fileID: 2100000, guid: 09e18eafcd7cb5543bcd6e2473633123, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ARm4_runninglight
+    second: {fileID: 2100000, guid: 4e2179e8faf67ed429fb33d4a454c882, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ARm4_signal_L
+    second: {fileID: 2100000, guid: 04e9ea1e91755d44897b63c02ab35aa1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ARm4_signal_R
+    second: {fileID: 2100000, guid: 8c9f75995db063f48921e64506c34dfe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ARm4_taillight_alt.001
+    second: {fileID: 2100000, guid: 82b8f00e547be3343a481f38228f64ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ARm4_tailsignal_L
+    second: {fileID: 2100000, guid: 6f97d4e2328ee824caf71fc72dfcfa42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ARm4_wr_reset_badge
+    second: {fileID: 2100000, guid: 11ee9e0dcddcd3540b53e026bb81ef93, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ARm4_wr_reset_badge_1
+    second: {fileID: 2100000, guid: 34d0dcf5e3ce05d41af07d33737c6640, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BMW_M4Coupe_2014_Badge_DiffuseAOSO
+    second: {fileID: 2100000, guid: e7737b39201c94649880e02aa6ecbcb6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scene_-_Root.002
+    second: {fileID: 2100000, guid: 947266a62bdbbbe4cb9a57ac9b129ea2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: amdb11_brake.002
+    second: {fileID: 2100000, guid: e11b38ab32759be458a2cec03d13ad96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: amdb11_caliper.002
+    second: {fileID: 2100000, guid: 0fc773e0986e8bd45854f604d57b7fae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: amdb11_misc.002
+    second: {fileID: 2100000, guid: facc272c8d2e6fc48be8280cec39a1b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: amdb11_misc_chrome.002
+    second: {fileID: 2100000, guid: 13aaa210f96fb5c49ac2eec4160eb0ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: common_transparent
+    second: {fileID: 2100000, guid: 2db83539b6a8e8b4c8cdca26f0140647, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: etk_engine_i6
+    second: {fileID: 2100000, guid: b0702bbf46c6f3e448a5111c75097406, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: etk_gauges
+    second: {fileID: 2100000, guid: dab719b9678b2e348a85e65c2b5ac66f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: etkc
+    second: {fileID: 2100000, guid: 07cb033554b809f4d91f272b09bc02b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: etkc_screen
+    second: {fileID: 2100000, guid: df47c1ab0be8c2a46b0a685a428ff75f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hedlight_o
+    second: {fileID: 2100000, guid: af78b315b4a203742957abb8f8e6c67d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: michelin_diff
+    second: {fileID: 2100000, guid: 50cdd0b54209acc4a9c3387275f54b1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mirror
+    second: {fileID: 2100000, guid: 7046f64c956e5554bae75808cc4e5ad3, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Details_D
+    second: {fileID: 2800000, guid: ede2f6789bf89b443985ae139318ae51, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: INT_Belt_NM
+    second: {fileID: 2800000, guid: 9452e4951a81e57478a321d4ae1f3ec7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: INT_Decals
+    second: {fileID: 2800000, guid: 59ac1d9e6c0440a4b82fb5f05a43358c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: INT_Decals_NM_1
+    second: {fileID: 2800000, guid: 68ad9e31e1f95cd4cb86ca85a31299b9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: INT_Decals_oP
+    second: {fileID: 2800000, guid: 131328142ab9f3b4c8108dba79e5a2e8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: INT_Decals_pad
+    second: {fileID: 2800000, guid: 34cd3568bfe554e489b0d317d8312c84, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: INT_Seams
+    second: {fileID: 2800000, guid: 10af03281b4e21c46a262b8168fa2a03, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: INT_speakers
+    second: {fileID: 2800000, guid: b913bc0920a340b47981e3b69b40dde9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: INT_speakers_NM
+    second: {fileID: 2800000, guid: dc4de9ac0832ab84e812751276c2de26, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: alcantara_normals
+    second: {fileID: 2800000, guid: c77d92e0a44ed4249a79c784f7683130, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: common_bmw_logo
+    second: {fileID: 2800000, guid: 2a3f55a6c60514048ab222b2f94c9e61, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: common_carbon
+    second: {fileID: 2800000, guid: 8f04cd4718b3ae14586d0be034897264, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: common_carbon_normal
+    second: {fileID: 2800000, guid: aedb3b681b5eff94ca599666203938e8, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0

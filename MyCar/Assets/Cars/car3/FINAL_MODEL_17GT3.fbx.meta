@@ -1,0 +1,269 @@
+fileFormatVersion: 2
+guid: eeb14a590a1328245a0fb05446834bc4
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BadgeA_DiffuseAOSO
+    second: {fileID: 2800000, guid: 51d2203e2cbbb1340ac14657559e4262, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CalliperBadgeA_Diffuse
+    second: {fileID: 2800000, guid: ec46dd5756410154087a36e1d7dca4f0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Global_Texture_Coloured_Diffuse
+    second: {fileID: 2800000, guid: 83633f75024930f419b9bc4774c4716e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Global_Texture_Kevlar1_diff
+    second: {fileID: 2800000, guid: 619bfc2cb32b90a4f91f1585e67397ba, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LiveryA_Diffuse
+    second: {fileID: 2800000, guid: 0f56b65267312494092243d2ce07153d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Nissan_GTRNISMOGT3_2015_BadgeA_Normal
+    second: {fileID: 2800000, guid: ef847804e142f3941ae638c233e4b1c1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Nissan_GTRNISMOGT3_2015_CalliperA_Zone_Diffuse
+    second: {fileID: 2800000, guid: 5e5b8db477b319043b3a3c3dfafad14b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Nissan_GTRNISMOGT3_2015_Grille1A_DiffuseAOSO
+    second: {fileID: 2800000, guid: 5781e72448c121345bdc4623bf9d06e6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Nissan_GTRNISMOGT3_2015_Grille1A_Normal
+    second: {fileID: 2800000, guid: 58ec86c86fca80143bf62d92d01cc319, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Nissan_GTRNISMOGT3_2015_Grille2A_DiffuseAOSO
+    second: {fileID: 2800000, guid: 6d052e6931de296419c541f59943bfa4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Nissan_GTRNISMOGT3_2015_Grille2A_Normal
+    second: {fileID: 2800000, guid: c2a36cd041da7ee4d9b4e958ba69c087, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Nissan_GTRNISMOGT3_2015_Grille3A_DiffuseAOSO
+    second: {fileID: 2800000, guid: cf4cd916601d0054c8461c6394646480, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Nissan_GTRNISMOGT3_2015_Grille3A_Normal
+    second: {fileID: 2800000, guid: 87f01f6b98a09b144be3513e4df9d147, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Nissan_GTRNISMOGT3_2015_Grille4A_DiffuseAOSO
+    second: {fileID: 2800000, guid: a0f8212cdf6405c4fa7ec675ff7599de, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Nissan_GTRNISMOGT3_2015_Grille5A_DiffuseAOSO
+    second: {fileID: 2800000, guid: fb281bb8ece85f348901c19650efeca0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Nissan_GTRNISMOGT3_2015_Grille6A_DiffuseAOSO
+    second: {fileID: 2800000, guid: 1d14630ab09c02b458ab88f32c7bf380, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Nissan_GTRNISMOGT3_2015_Grille6A_Normal
+    second: {fileID: 2800000, guid: b3411bcdce3d5c5479b5b28a9852ee61, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Nissan_GTRNISMOGT3_2015_Grille7A_DiffuseAOSO
+    second: {fileID: 2800000, guid: d627e9ed7b8d6c94d9f3425f291b53bf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Nissan_GTRNISMOGT3_2015_Grille7A_Normal
+    second: {fileID: 2800000, guid: 55dd2e29d1ac05d49b1c4e2f26ee7391, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Nissan_GTRNISMOGT3_2015_Grille8A_DiffuseAOSO
+    second: {fileID: 2800000, guid: a2bd17f40ab37eb49b75fc7aeb77995e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Nissan_GTRNISMOGT3_2015_Grille8A_Normal
+    second: {fileID: 2800000, guid: 6141304123502da48a613fadb5fc712a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Nissan_GTRNISMOGT3_2015_Grille9A_DiffuseAOSO
+    second: {fileID: 2800000, guid: d1a70778c00baa543a809d081d5655d1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Nissan_GTRNISMOGT3_2015_Grille9A_Normal
+    second: {fileID: 2800000, guid: b6b3263f68c2f074299334b231ff9649, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Nissan_GTRNISMOGT3_2015_InteriorA_DiffuseAOSO
+    second: {fileID: 2800000, guid: 7aded88c29b3aed43a5747ac77e404bc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Nissan_GTRNISMOGT3_2015_InteriorA_Normal
+    second: {fileID: 2800000, guid: 94254d4a8217f2a4aa81cfc471f26974, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Nissan_GTRNISMOGT3_2015_InteriorTillingA_DiffuseAOSO
+    second: {fileID: 2800000, guid: fd430c6d6225ec748a47b420b923ecb8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Nissan_GTRNISMOGT3_2015_InteriorTillingA_Normal
+    second: {fileID: 2800000, guid: 5c5428795d9c49744b56541d20eae8f1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Nissan_GTRNISMOGT3_2015_LightA_Diffuse
+    second: {fileID: 2800000, guid: 1cd1cf4cc0dd913479bdee49866bd15b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Nissan_GTRNISMOGT3_2015_Wheel1A_DiffuseAOSO
+    second: {fileID: 2800000, guid: cadf73ed0ea36844e8aa76a7c761ebc9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Nissan_GTRNISMOGT3_2015_Wheel1A_Normal
+    second: {fileID: 2800000, guid: aab331709bb83e24ab340269d6a86b0e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: common_carbon05_black_diff
+    second: {fileID: 2800000, guid: 592828ea7d6b9db4fa1b93a9a74d9e6f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: common_carbon05_norm
+    second: {fileID: 2800000, guid: e74a42a31d3ed8543bf8f6e255b5f870, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
