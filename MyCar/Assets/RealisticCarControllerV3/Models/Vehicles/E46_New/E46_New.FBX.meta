@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: 8b657c64a6d1ab64e8c5a206f6e1d40d
 ModelImporter:
-  serializedVersion: 21202
+  serializedVersion: 22200
   internalIDToNameTable: []
   externalObjects:
   - first:
@@ -168,37 +168,37 @@ ModelImporter:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Carpet
-    second: {fileID: 2800000, guid: a542952e3020090428b9b14d28017a92, type: 3}
+    second: {fileID: 2800000, guid: e02b6da4fe859334e84d4fd3538286da, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: E46_Carpet
-    second: {fileID: 2800000, guid: 9884aa583ea459345a1dc20716cbef90, type: 3}
+    second: {fileID: 2800000, guid: 4d1b1964888ca7b49af01a30719cbdeb, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: E46_Dashboard
-    second: {fileID: 2800000, guid: 24b595f72d1ef89439bf2e9267414199, type: 3}
+    second: {fileID: 2800000, guid: ad925d8a3b0d1c84f8aeaae0ea9d825f, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: E46_Leather
-    second: {fileID: 2800000, guid: cb8099e4d9d69ea4fba3bac5c10541c6, type: 3}
+    second: {fileID: 2800000, guid: 8385f92fd4f3c8a40a3838ad3cbc9c51, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: E46_Needle
-    second: {fileID: 2800000, guid: 69c982895fed95c4d8bdc048f3b8fead, type: 3}
+    second: {fileID: 2800000, guid: dd5b0028c5479fc4cab71fa60cdf9205, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: E46_Rear
-    second: {fileID: 2800000, guid: b389fbd0dbf048a41a7606d6b563dc8b, type: 3}
+    second: {fileID: 2800000, guid: 64313f229b489cc4c9aeabcb9c28eed1, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Leather
-    second: {fileID: 2800000, guid: cb3a33b7a53b9f045928a74397ff5ee6, type: 3}
+    second: {fileID: 2800000, guid: 129df111ca236e84f9f1f7b6503153c2, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -235,6 +235,7 @@ ModelImporter:
     addColliders: 0
     useSRGBMaterialColor: 1
     sortHierarchyByName: 1
+    importPhysicalCameras: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
@@ -262,6 +263,7 @@ ModelImporter:
     secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
+    strictVertexDataChecks: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -294,6 +296,8 @@ ModelImporter:
   humanoidOversampling: 1
   avatarSetup: 0
   addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
   additionalBone: 0
   userData: 
   assetBundleName: 
