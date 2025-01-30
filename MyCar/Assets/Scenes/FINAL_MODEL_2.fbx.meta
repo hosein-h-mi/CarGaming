@@ -5,165 +5,285 @@ ModelImporter:
   internalIDToNameTable: []
   externalObjects:
   - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b_BMW_M4CompetitionG82TNR0_2021_CallipersCalliperBadgeA_Material2
+    second: {fileID: 2100000, guid: c1b9ca6f901b45d4da8131516fdbc59c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b_BMW_M4CompetitionG82TNR0_2021_CallipersCalliperGloss_Material2
+    second: {fileID: 2100000, guid: bee581b090a7275498ecf7b9a47e282b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b_BMW_M4CompetitionG82TNR1_2021BadgeB_Material1
+    second: {fileID: 2100000, guid: 19e850fbf89268d4c8b46e512f7672e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b_BMW_M4CompetitionG82TNR1_2021Base_Material1
+    second: {fileID: 2100000, guid: bd43789141679f7488e0bb4ebb0f2c05, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b_BMW_M4CompetitionG82TNR1_2021Carbon1_Material_004
+    second: {fileID: 2100000, guid: 64644a41c96b1864e83798ab18f82acd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b_BMW_M4CompetitionG82TNR1_2021Coloured_Material_004
+    second: {fileID: 2100000, guid: 3b10c502e2f0815408f64e811d84633f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b_BMW_M4CompetitionG82TNR1_2021EngineA_Material1
+    second: {fileID: 2100000, guid: 51697b11d6a59804fbb14fb59bcf6f05, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b_BMW_M4CompetitionG82TNR1_2021GrilleAlpha1B_Material1
+    second: {fileID: 2100000, guid: 95c3cc82743485b4cbc7d71db4c8cb4b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b_BMW_M4CompetitionG82TNR1_2021GrilleNoAlpha2B_Material1
+    second: {fileID: 2100000, guid: dcc2c10d3f8e3ea46b552c4257df47bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b_BMW_M4CompetitionG82TNR1_2021GrilleNoAlpha5A_Material1
+    second: {fileID: 2100000, guid: 5a43ad8f6d3b37149884600d1effddff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b_BMW_M4CompetitionG82TNR1_2021GrilleNoAlpha6A_Material1
+    second: {fileID: 2100000, guid: fdd7d7c0bf2e5b54bb9a4640c246f4f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b_BMW_M4CompetitionG82TNR1_2021GrilleNoAlpha7A_Material1
+    second: {fileID: 2100000, guid: f3d4b92ec5b543042b9ed5d40598cef7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b_BMW_M4CompetitionG82TNR1_2021GrilleNoAlpha8A_Material1
+    second: {fileID: 2100000, guid: a0ca59810725c3347be16cb19838f9f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b_BMW_M4CompetitionG82TNR1_2021GrilleNoAlpha9A_Material1
+    second: {fileID: 2100000, guid: 883601e8dc2e6d549bd5899fb3018085, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b_BMW_M4CompetitionG82TNR1_2021InteriorA_Material1
+    second: {fileID: 2100000, guid: e6dccb78887db0b4cb615ac6d210ac18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b_BMW_M4CompetitionG82TNR1_2021LightB_Material1
+    second: {fileID: 2100000, guid: 7f50e130133efd2478479fda6fbf478d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b_BMW_M4CompetitionG82TNR1_2021ManufacturerPlateB_Material1
+    second: {fileID: 2100000, guid: fc68860cee7518847a28a0852bc0d275, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b_BMW_M4CompetitionG82TNR1_2021PaintTNR_Material_008
+    second: {fileID: 2100000, guid: 2313ca97025b1aa43bdd6a0e23941fef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b_BMW_M4CompetitionG82TNR1_2021Window_Material1
+    second: {fileID: 2100000, guid: 2bc9ac49de5cdb84bba9384a3d6192b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b_BMW_M4CompetitionG82TNR1_2021Wing1b_Badge_Material1
+    second: {fileID: 2100000, guid: e0eff00143d0c0641a02705f3dcd4668, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b__TNRRims_125A20NaBrakeDisc_ForgedDrilled_Material2
+    second: {fileID: 2100000, guid: c5f0ccb6c8750ce4a8ac2a718de1821b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b__TNRRims_125A20NaTireBlur_Material2
+    second: {fileID: 2100000, guid: 84fd99d64bfeffc4eaeb8013da3dc3e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: red_glass
+    second: {fileID: 2100000, guid: 673605feac9857849ad087e8200e2ce3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: refl_black
+    second: {fileID: 2100000, guid: 523b4a55891eca743b3d499bb6e25857, type: 2}
+  - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: BMW_M4CompetitionG82TNR_2021_BadgeA_Normal
-    second: {fileID: 2800000, guid: ae25c934546e9fd4a9c47e62064baa9b, type: 3}
+    second: {fileID: 2800000, guid: c04293972d735354087a2437190bf4fa, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: BMW_M4CompetitionG82TNR_2021_EngineA_DiffuseAOSO
-    second: {fileID: 2800000, guid: d221d556778af6e45801f800a16c4dfb, type: 3}
+    second: {fileID: 2800000, guid: 98429c94cde5cdc45bb63dc7d6629353, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: BMW_M4CompetitionG82TNR_2021_EngineA_Normal
-    second: {fileID: 2800000, guid: 916ccfee789a28e4dbb55af834a10c59, type: 3}
+    second: {fileID: 2800000, guid: 3f5b62ce45b91db4cb7e9e219eed6eea, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: BMW_M4CompetitionG82TNR_2021_Grille1A_Normal
-    second: {fileID: 2800000, guid: 467d9e0ca4b72b346a9548c1646b01eb, type: 3}
+    second: {fileID: 2800000, guid: 7ac17f13de276e449b1210339aa8b51a, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: BMW_M4CompetitionG82TNR_2021_Grille2A_DiffuseAOSO
-    second: {fileID: 2800000, guid: 0f3023ec587a92642aca869f616bc622, type: 3}
+    second: {fileID: 2800000, guid: 2a11936322b120f4ab86aee797821fc9, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: BMW_M4CompetitionG82TNR_2021_Grille2A_Normal
-    second: {fileID: 2800000, guid: 435f8976846f2d746abbde6012ff13e1, type: 3}
+    second: {fileID: 2800000, guid: f0142c4a142bcf74fa9791a9fb9e9ba1, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: BMW_M4CompetitionG82TNR_2021_Grille5A_DiffuseAOSO
-    second: {fileID: 2800000, guid: 42728ad0fa88ebe4d9eea761b4584bfa, type: 3}
+    second: {fileID: 2800000, guid: cd19ccb133ae0a44d9e4fca1b3a61ef6, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: BMW_M4CompetitionG82TNR_2021_Grille5A_Normal
-    second: {fileID: 2800000, guid: af1f7aaa350682b43a4799bc0032fa39, type: 3}
+    second: {fileID: 2800000, guid: 49c7e28b778a38e4e8872b7004bb8863, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: BMW_M4CompetitionG82TNR_2021_Grille6A_DiffuseAOSO
-    second: {fileID: 2800000, guid: a2e32bf16cf9d2a489440c730dd27e1c, type: 3}
+    second: {fileID: 2800000, guid: 2871b487e5a21314f81b9bf3a94f20dd, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: BMW_M4CompetitionG82TNR_2021_Grille6A_Normal
-    second: {fileID: 2800000, guid: 6e3880cddf75f754fa8c9cc733cae235, type: 3}
+    second: {fileID: 2800000, guid: ad17f4b05597de340a6cc15bbeeee670, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: BMW_M4CompetitionG82TNR_2021_Grille7A_DiffuseAOSO
-    second: {fileID: 2800000, guid: 1272dde7a62e4aa408df76eb51df92c4, type: 3}
+    second: {fileID: 2800000, guid: 4a2ff2dbdc9305a4cbf5f7c010210958, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: BMW_M4CompetitionG82TNR_2021_Grille7A_Normal
-    second: {fileID: 2800000, guid: fdc4c1812e290294f82b93ffebc3c69a, type: 3}
+    second: {fileID: 2800000, guid: b89243bbd178eab428556f46b9c7259a, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: BMW_M4CompetitionG82TNR_2021_Grille8A_DiffuseAOSO
-    second: {fileID: 2800000, guid: 794344128a393f8469a68121d2b8a0ff, type: 3}
+    second: {fileID: 2800000, guid: 01e121d017fffe146beb92eaba186132, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: BMW_M4CompetitionG82TNR_2021_Grille8A_Normal
-    second: {fileID: 2800000, guid: 36deec9c1e0f70c4594c4227ba5022a1, type: 3}
+    second: {fileID: 2800000, guid: e6cfefde0b54c124ababf99431209000, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: BMW_M4CompetitionG82TNR_2021_Grille9A_DiffuseAOSO
-    second: {fileID: 2800000, guid: b985790ca1640724a8e6daa43f4ee1a8, type: 3}
+    second: {fileID: 2800000, guid: 19349505afaaa7d44bcb6f55f2f68be9, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: BMW_M4CompetitionG82TNR_2021_Grille9A_Normal
-    second: {fileID: 2800000, guid: 4d69b81e7a57f9b4f9fc079a0360c553, type: 3}
+    second: {fileID: 2800000, guid: 4dab77d7086a1ae418d959633ec93c46, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: BMW_M4CompetitionG82TNR_2021_InteriorA_Normal
-    second: {fileID: 2800000, guid: b26c847fc9aa5fc40a6033a7dc07b6e3, type: 3}
+    second: {fileID: 2800000, guid: 1d1ec39f03ee4f943b46c096c22228d0, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: BMW_M4CompetitionG82TNR_2021_LightA_Diffuse
-    second: {fileID: 2800000, guid: a9fa52e5e13f7f04db668876ece41396, type: 3}
+    second: {fileID: 2800000, guid: a3d0683c756258049b1c53f3f503c3df, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: BMW_M4CompetitionG82TNR_2021_ManufacturerPlateB_Diffuse
-    second: {fileID: 2800000, guid: 8bff2b5f398bc084a8e55688da9bf129, type: 3}
+    second: {fileID: 2800000, guid: 2ad2efb9cbcc2094aa81e769597c90b8, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: BMW_M4CompetitionG82TNR_2021_Wing1b_Badge_DiffuseAOSO
-    second: {fileID: 2800000, guid: 17d6b32fba117114dba02c7a0c997167, type: 3}
+    second: {fileID: 2800000, guid: 5b97926fdc64c2242a9ba4a8fc717631, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: BadgeB_DiffuseAOSO
-    second: {fileID: 2800000, guid: 315c2b45fd6d5db41aaa43efd286dfdc, type: 3}
+    second: {fileID: 2800000, guid: f9069e84d2f64b047a71cc307f54df68, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: BrakeDisc_ForgedDrilled_DiffuseAOSO
-    second: {fileID: 2800000, guid: 5234aeabb269d2043b2ae23ed344af3c, type: 3}
+    second: {fileID: 2800000, guid: c8d8a4485984c6d479575a58f46d5416, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: BrakeDisc_ForgedDrilled_Normal
-    second: {fileID: 2800000, guid: 2ae2e7e83e34ccf4fa0e6f6f097894d8, type: 3}
+    second: {fileID: 2800000, guid: d7d39ed2e4c40d941b1d7c7d55ff105d, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: CalliperBadgeA_Diffuse
-    second: {fileID: 2800000, guid: 429bfac26cb09b5418244385bcc42cfd, type: 3}
+    second: {fileID: 2800000, guid: 71a3a7019bbd47e45a927e8594bda8d1, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Global_Texture_Calliper_Normal
-    second: {fileID: 2800000, guid: ff0548343e314dc429119f389a56e99d, type: 3}
+    second: {fileID: 2800000, guid: 453952254348dbf4ab0e6f0d004341ee, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Global_Texture_Coloured_Diffuse
-    second: {fileID: 2800000, guid: 98c548db1ef90f445993a29764d91fe2, type: 3}
+    second: {fileID: 2800000, guid: d6799afcc65365a4e87202054410e909, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Grille1A_DiffuseAOSO
-    second: {fileID: 2800000, guid: 42f15e23ec074f64eb3883c26367d746, type: 3}
+    second: {fileID: 2800000, guid: 2fe30a2c278997b48b4a67713f120ff7, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: InteriorA_DiffuseAOSO
-    second: {fileID: 2800000, guid: af9b7bf3e8a092343ab5754c0005b569, type: 3}
+    second: {fileID: 2800000, guid: e79d6c4fe1c83974cb5d5c9181ef050a, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: TOYO_ProxesR888_A_DiffuseAOSO
-    second: {fileID: 2800000, guid: 724059c2bea31c142a775d2e7d3cbb04, type: 3}
+    second: {fileID: 2800000, guid: 85edd13d10fb07d448cd0a80e2455ba3, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: TOYO_ProxesR888_A_Normal
-    second: {fileID: 2800000, guid: 6ca68fe773535114c93395ba3cb0d8ae, type: 3}
+    second: {fileID: 2800000, guid: 1304d0d10cd0b894dbeef06bff65920f, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: common_carbon05_black_diff
-    second: {fileID: 2800000, guid: 9a530abed3bbbbe4d8dae5aa28360d91, type: 3}
+    second: {fileID: 2800000, guid: ba21dd98fa7b4984ebbf903a537dbb5c, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: common_carbon05_norm
-    second: {fileID: 2800000, guid: 54932ddec27b85f45bc84adde7f942b9, type: 3}
+    second: {fileID: 2800000, guid: a7c1bd263db5b4e44ba7c974c1746e0a, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
