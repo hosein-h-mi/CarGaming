@@ -1,0 +1,739 @@
+fileFormatVersion: 2
+guid: a1c51748ded873c4ebd98b8652f94455
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scene_-_Root.002
+    second: {fileID: 2100000, guid: a8a26db7f6b061a4cb60815ece6ae96d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992.001
+    second: {fileID: 2100000, guid: 5db1da441268642479249fb044771fb8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_CSR2_Badge
+    second: {fileID: 2100000, guid: f15a19c048483104c851fe68ad346a1b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_GT3RS_black
+    second: {fileID: 2100000, guid: ddff48748fc4b2e478a5c478ed572003, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_ID01_plastic_lgl_010101FF
+    second: {fileID: 2100000, guid: 5461a3905846b8f459aabdbc2623d9b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_ID02_leather_MGL.003
+    second: {fileID: 2100000, guid: fd1f55d5836817546a754bb1aa0cc6d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_ID02_leather_MGL_060606FF.001
+    second: {fileID: 2100000, guid: 0d0bd95d1001b3e4d9f8da86f7378271, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_ID03_stitch_001.003
+    second: {fileID: 2100000, guid: c9e22ff32229a05488157444962944fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_ID03_stitch_001_111111FF.003
+    second: {fileID: 2100000, guid: 698f1d179cb4be74baa4cc2b084182c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_ID03_stitch_001_111111FF.005
+    second: {fileID: 2100000, guid: b02aaf7f2a2e99140b949d104968d75b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_ID03_stitch_001_111111FF.006
+    second: {fileID: 2100000, guid: 71368bb025b069542aa35e2010c64c0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_ID03_stitch_001_pillartrim_a.001
+    second: {fileID: 2100000, guid: fac3b8c23c35c8f46bcdb408e2e7701d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_ID03_stitch_001_vents_a.003
+    second: {fileID: 2100000, guid: fe362b744b2279041b5fc18ecb557832, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_ID03_stitch_001_vents_a.004
+    second: {fileID: 2100000, guid: a2f621899a4f3134299f1a75812fe017, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_ID04_metal_anodized_alloptions_enginebay_a.002
+    second: {fileID: 2100000, guid: 3d74c475010645d449ac6191351b134f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_ID04_plastic_textured_001_060606FF.001
+    second: {fileID: 2100000, guid: abf307d665efc4d4bac20d6dd9bb1600, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_ID04_plastic_textured_001_060606FF.002
+    second: {fileID: 2100000, guid: 6dbdfa535e9a0f64e8828babeeee8584, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_ID04_plastic_textured_001_shifterassy_a.003
+    second: {fileID: 2100000, guid: 4090ecce1f8d95f43bd70f275ad1f115, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_ID05_leather_coarse_mgl_171717FF.002
+    second: {fileID: 2100000, guid: f833c0c84fe967d4ea61a93a836e5be2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_ID05_leather_coarse_mgl_FFFFFFFF.001
+    second: {fileID: 2100000, guid: dec4914b806dbf54fb56039c74bcff09, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_ID05_leather_coarse_mgl_dashstructurebezels_a.003
+    second: {fileID: 2100000, guid: 624477220db1e72479331f0858b7365f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_ID05_leather_coarse_mgl_shifterassy_a.003
+    second: {fileID: 2100000, guid: 0f193af0d0aa0ca449550310571560e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_ID05_leather_coarse_mgl_shifterassy_a_2.002
+    second: {fileID: 2100000, guid: 349eb8cfcdc3afd44b28492112ff34c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_ID05_leather_coarse_mgl_vents_a.003
+    second: {fileID: 2100000, guid: 48012ad03b717194dbf3bf9959b69610, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_ID06_stitch_001
+    second: {fileID: 2100000, guid: a8e1895d102ca7a49801324867361218, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_ID06_stitch_001_rearseats_a.001
+    second: {fileID: 2100000, guid: db807aa438f28b743bd66f554aae3294, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_ID08_fabric_002.001
+    second: {fileID: 2100000, guid: 64b68d19cfed9e642abffd7bb147a917, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_ID08_fabric_002_B60000FF.001
+    second: {fileID: 2100000, guid: fef8a6f7f0bdd804d81834cf10e50b27, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_ID08_fabric_002_FFFFFFFF.003
+    second: {fileID: 2100000, guid: 2e7f10f6f791d9848a008463a557f028, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_ID08_fabric_002_FFFFFFFF.005
+    second: {fileID: 2100000, guid: 7bd755d5acfa1b249ba332dc3b8e5821, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_ID08_fabric_002_centerconsolestructure_a.003
+    second: {fileID: 2100000, guid: aa0b95c026f1f2444bcd615a2e940a1c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_ID08_keyhole_002_enginebay_a.002
+    second: {fileID: 2100000, guid: 548c993f6d5aea74994354afb1c7e696, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_ID09_rubbertrim_FFFFFFFF.002
+    second: {fileID: 2100000, guid: 0b8c77d532fa6684c8d38876362b6b77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_ID10_chrome.001
+    second: {fileID: 2100000, guid: 4624ca96406fd524e9616c0118e29315, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_ID12_paint.001
+    second: {fileID: 2100000, guid: 9790b33757d318640bedd2f66abbca76, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_Interior_D
+    second: {fileID: 2100000, guid: d0e819f3c69e6664ab5b9684588752ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_antichrome.001
+    second: {fileID: 2100000, guid: b7339e2141eebb84cbfebc4dbddc4c8d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_antichrome.002
+    second: {fileID: 2100000, guid: 0e89415a9ed144443abed62976c4c6d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_blackGlass.001
+    second: {fileID: 2100000, guid: a9e706be87e462c4eba2d491cdeee465, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_brakelight_1.001
+    second: {fileID: 2100000, guid: bef5cce9905de4f429bf3eb5fa016cd1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_brakelight_1.002
+    second: {fileID: 2100000, guid: 0ec83a45b7098e141a14d4261628aea9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_carPaint.003
+    second: {fileID: 2100000, guid: 5e72804800567d046a5eea204debfa22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_carPaint.008
+    second: {fileID: 2100000, guid: ddee88c34df87eb4481ac7d33817841c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_carPaint_secondary_hoodbadge_a.001
+    second: {fileID: 2100000, guid: 05c54e46d0e1adf46b6552ada6848907, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_carbon_roof.001
+    second: {fileID: 2100000, guid: 40787a137975bca48be7b96249b2e516, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_carpet.001
+    second: {fileID: 2100000, guid: bc11a9e010a2f72458d82f5be7ce9886, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_carpet.002
+    second: {fileID: 2100000, guid: b360e246936af2141a3c0e5ffb3a3fe0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_chrome.002
+    second: {fileID: 2100000, guid: cd43200280dee8249ba4cae99007225a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_chrome.003
+    second: {fileID: 2100000, guid: 9c8849480ce02bc428bbcdc00d8e6661, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_dash_clock_1.001
+    second: {fileID: 2100000, guid: 4fafeef485fcbe1418546db186fc0507, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_emblem_antichrome.001
+    second: {fileID: 2100000, guid: 1bc96ee504c0ebb4e827e1c90bdf1897, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_engine.001
+    second: {fileID: 2100000, guid: 20da007db85c0614b82666b8628b601e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_exhausttip_antichrome.001
+    second: {fileID: 2100000, guid: bead33eac27319949ac034f6c7a0b872, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_gauges_1.003
+    second: {fileID: 2100000, guid: c43c1224f4356dd4f9cff1fe12746703, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_gauges_9000.001
+    second: {fileID: 2100000, guid: e8e2341c8f768db488bfbb4ee8357fdc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_gauges_chrome.001
+    second: {fileID: 2100000, guid: 2ffac20d532dcde4a8c1f7e484f529a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_gauges_chrome_2.001
+    second: {fileID: 2100000, guid: dfc10030ba404c7458980dac9e859755, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_gauges_screen.001
+    second: {fileID: 2100000, guid: e4534fe1ce036a64c919c651a410f4b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_glass.002
+    second: {fileID: 2100000, guid: 33e3df73d10317245adf9e25f9002500, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_glass.004
+    second: {fileID: 2100000, guid: ff6c5c4415beab8408071e9e7cdac2c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_glass_int.001
+    second: {fileID: 2100000, guid: 65ebcaf6ae51d2f458c3a27659a5973c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_gps_screen.003
+    second: {fileID: 2100000, guid: b8bea0961777e634499714ebb8e5fb51, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_headlight.001
+    second: {fileID: 2100000, guid: 1d187f799e2ff4340abc2e85338e61d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_headlight_1.001
+    second: {fileID: 2100000, guid: 5fb0e7b525cbae74abf9eec249ec57eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_headlight_high.001
+    second: {fileID: 2100000, guid: 9102698cb7e9b354187eee182d7219b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_int_chrome.003
+    second: {fileID: 2100000, guid: 5980c5881ab13cd4bb85fb415ea3c4c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_int_chrome.004
+    second: {fileID: 2100000, guid: 6d3282d9a4d0bc04a837831dc92cd10e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_int_chrome.005
+    second: {fileID: 2100000, guid: 4b4c8ed6f768b6543af9d2b83d81a9be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_int_chrome.007
+    second: {fileID: 2100000, guid: 33f99acc097644b4aa108c4ec232a39c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_led_lights.001
+    second: {fileID: 2100000, guid: 28d309f2cf87cfb41906cd0df2dd62a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_metal_radiator.002
+    second: {fileID: 2100000, guid: 0291905f970ad1047a92785c8450f2c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_mirror.001
+    second: {fileID: 2100000, guid: f1e288ecac7ea1b4da8d7780d77c30c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_mirror.002
+    second: {fileID: 2100000, guid: cb19b97736233994a9e98a066b2d2a13, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_plastic.002
+    second: {fileID: 2100000, guid: ab22c44fbdfbda34c9e326753cf38601, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_plastic.004
+    second: {fileID: 2100000, guid: 5d711022b9571e84d900ea4307a1e3f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_plastic_1.001
+    second: {fileID: 2100000, guid: 864d213a6cb81ff4abfa3eac7a7c8c4c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_plastic_2.003
+    second: {fileID: 2100000, guid: f5377e2aaf9efb64cb9175ce0406fd27, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_plastic_mgl.001
+    second: {fileID: 2100000, guid: 6884693ff256dae4492ce30e316575b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_plastic_mgl.002
+    second: {fileID: 2100000, guid: 837f52ab309aaf84aab7320551a9e16b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_plastic_mgl_060606FF.001
+    second: {fileID: 2100000, guid: e41149188cae7eb478e56ddd2c50d9a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_plastic_mgl_060606FF.002
+    second: {fileID: 2100000, guid: 03e9b65a12906ab4793f67ce9dacea9b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_plastic_smooth.001
+    second: {fileID: 2100000, guid: 8475bf77d1fd8c849a0b484be5a4910b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_red.001
+    second: {fileID: 2100000, guid: 464ea683f91cf004aa3fb010e10b7550, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_red.002
+    second: {fileID: 2100000, guid: 48959f49053021b40a51523ff865b8d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_rivet_001_747474FF.001
+    second: {fileID: 2100000, guid: 7eccd94e11a0b7b4ab25a424c08105ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_rivet_001_FFFFFFFF.001
+    second: {fileID: 2100000, guid: 5e4630fd30ab77f43a380c0954216588, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_roof_alc.001
+    second: {fileID: 2100000, guid: 0d7b3328fa8bf2b4abb2a6927511d304, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_rubbertrim.004
+    second: {fileID: 2100000, guid: adf6d7cd7a50eec4984952269ddb7655, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_rubbertrim.006
+    second: {fileID: 2100000, guid: 312f9de7a44969b4a9d917b17b4404cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_rubbertrim.008
+    second: {fileID: 2100000, guid: 9b041836a63ef19459782aa1f116f791, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_rubbertrim.009
+    second: {fileID: 2100000, guid: ac3135d7d2f2dfa41b7cb29e8d077fd6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_rubbertrim.011
+    second: {fileID: 2100000, guid: 4e386e60d58ce6449b07791a1ed1ad7d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_seat_leather.004
+    second: {fileID: 2100000, guid: dd94efdcf86287340a81b7ce0bf6a4c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_seat_leather_2.001
+    second: {fileID: 2100000, guid: e81b40cf4fac7484d919c17fdc85fb0b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_seatbelt.001
+    second: {fileID: 2100000, guid: 509f25685a7b7954fb23df421ce713d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_signal_L_bumper.001
+    second: {fileID: 2100000, guid: 59138e1463a65e847abc7d58efb659b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_speakers.001
+    second: {fileID: 2100000, guid: 1116f9ee0338aa242a121509b77aba07, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_speakers.002
+    second: {fileID: 2100000, guid: 3e4f49dd0d0f4dc44bb6fb3940f09f5e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_symbols.002
+    second: {fileID: 2100000, guid: 650a87b95d1bf39478c7e42eb7814d72, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_symbols.004
+    second: {fileID: 2100000, guid: 83477802ae3821a4d99c20fe05b987a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_symbols.005
+    second: {fileID: 2100000, guid: dd63dc8bda19b3e40ba34ef7163f78ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_symbols_1.002
+    second: {fileID: 2100000, guid: 418fbf4758b1e7d4494d4bf1a9ba782b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_symbols_1.003
+    second: {fileID: 2100000, guid: 1a3896f173153634187d057803b52416, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_symbols_3.001
+    second: {fileID: 2100000, guid: c71ec9e5951c9fb4c9f9dc1fbd125b7b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_symbols_6
+    second: {fileID: 2100000, guid: 7da6cead69287a34ba1e9ce08922b8cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_taillight_running.001
+    second: {fileID: 2100000, guid: c5c5986c0838eb44d8454b5a1418d951, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_undercarriage.001
+    second: {fileID: 2100000, guid: a0e8709f884a42348b73e6a7d524327b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_upper_leather.004
+    second: {fileID: 2100000, guid: f93c23f958fb679459b89cc8f8f7f705, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwiXeR_992_wheels_chrome_1
+    second: {fileID: 2100000, guid: 49f6a90a3df2dd64eb6c9919fdee66f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: amdb11_badging.002
+    second: {fileID: 2100000, guid: 12ac2f0b9cc70744f96060bbdb82d551, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: amdb11_brake.002
+    second: {fileID: 2100000, guid: c5d5dc4fc2a45f342924dd4c1d8d26b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: amdb11_caliper.002
+    second: {fileID: 2100000, guid: d309bb171cfc60045b9c0cf930cff083, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: amdb11_misc.002
+    second: {fileID: 2100000, guid: 681a5eb03dc450944ac72a3eebcc29ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: amdb11_misc_chrome.002
+    second: {fileID: 2100000, guid: 45aeff16bd402224aa6ced078acc2a6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: parkingbrake_1.001
+    second: {fileID: 2100000, guid: 47403f1c6e00f844080d4a1b25972f82, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Interior_D
+    second: {fileID: 2800000, guid: 0f91e6ed23ce26b4b87a60fea7ed9242, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: POR_992_19_symbols_DIFF.png.001
+    second: {fileID: 2800000, guid: 80a3f692c99c8d948b1c55834550465b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plastic_Rough_001_roughness
+    second: {fileID: 2800000, guid: 47682582698f37d4b93848d0aed475bd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Porsche Emblem
+    second: {fileID: 2800000, guid: 0094ce46253f51449b9e2372f40f3c73, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Porsche Emblem.png.001
+    second: {fileID: 2800000, guid: 1ae15dc9419d76a46b694c644e0b2b5b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: alck13.png.001
+    second: {fileID: 2800000, guid: 8520e13945a51b7449dd70dc4c6eb072, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: carbon
+    second: {fileID: 2800000, guid: e48296a298f19a54a88ca23448c49502, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: interior_colors
+    second: {fileID: 2800000, guid: 6da8531085b13ed4ca14cd5d18d3718c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: org_grain_001_nrml
+    second: {fileID: 2800000, guid: 51f5e0071538bd346b77969a8ca380e3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: org_grain_001_nrml.png.002
+    second: {fileID: 2800000, guid: 0b14dcb47d6a40446a9b28b15042e277, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ptn_grillround_002_opac
+    second: {fileID: 2800000, guid: 2a12da9944a287841ababee7f197fdb2, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
