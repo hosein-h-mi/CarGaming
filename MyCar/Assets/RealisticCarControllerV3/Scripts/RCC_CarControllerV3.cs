@@ -2134,7 +2134,7 @@ public class RCC_CarControllerV3 : RCC_Core {
             if (useDamage) {
 
                 if (!damage.carController)
-                    damage.Initialize(this);
+                 //   damage.Initialize(this);
 
                 damage.OnCollision(collision);
 

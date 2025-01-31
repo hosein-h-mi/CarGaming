@@ -89,48 +89,48 @@ public class RCC_Damage {
     /// <summary>
     /// Collecting all meshes and detachable parts of the vehicle.
     /// </summary>
-    public void Initialize(RCC_CarControllerV3 _carController) {
+    //public void Initialize(RCC_CarControllerV3 _carController) {
 
-        //  Getting the main car controller.
-        carController = _carController;
+    //    //  Getting the main car controller.
+    //    carController = _carController;
 
-        if (automaticInstallation) {
+    //    if (automaticInstallation) {
 
-            if (meshDeformation) {
+    //        if (meshDeformation) {
 
-                MeshFilter[] allMeshFilters = carController.gameObject.GetComponentsInChildren<MeshFilter>(true);
-                List<MeshFilter> properMeshFilters = new List<MeshFilter>();
+    //            MeshFilter[] allMeshFilters = carController.gameObject.GetComponentsInChildren<MeshFilter>(true);
+    //            List<MeshFilter> properMeshFilters = new List<MeshFilter>();
 
-                // Model import must be readable. If it's not readable, inform the developer. We don't wanna deform wheel meshes. Exclude any meshes belongs to the wheels.
-                foreach (MeshFilter mf in allMeshFilters) {
+    //            // Model import must be readable. If it's not readable, inform the developer. We don't wanna deform wheel meshes. Exclude any meshes belongs to the wheels.
+    //            foreach (MeshFilter mf in allMeshFilters) {
 
-                    if (mf.mesh != null) {
+    //                if (mf.mesh != null) {
 
-                        if (!mf.mesh.isReadable)
-                            Debug.LogError("Not deformable mesh detected. Mesh of the " + mf.transform.name + " isReadable is false; Read/Write must be enabled in import settings for this model!");
-                        else if (!mf.transform.IsChildOf(carController.FrontLeftWheelTransform) && !mf.transform.IsChildOf(carController.FrontRightWheelTransform) && !mf.transform.IsChildOf(carController.RearLeftWheelTransform) && !mf.transform.IsChildOf(carController.RearRightWheelTransform))
-                            properMeshFilters.Add(mf);
+    //                    if (!mf.mesh.isReadable)
+    //                        Debug.LogError("Not deformable mesh detected. Mesh of the " + mf.transform.name + " isReadable is false; Read/Write must be enabled in import settings for this model!");
+    //                    else if (!mf.transform.IsChildOf(carController.FrontLeftWheelTransform) && !mf.transform.IsChildOf(carController.FrontRightWheelTransform) && !mf.transform.IsChildOf(carController.RearLeftWheelTransform) && !mf.transform.IsChildOf(carController.RearRightWheelTransform))
+    //                        properMeshFilters.Add(mf);
 
-                    }
+    //                }
 
-                }
+    //            }
 
-                GetMeshes(properMeshFilters.ToArray());
+    //            GetMeshes(properMeshFilters.ToArray());
 
-            }
+    //        }
 
-            if (lightDamage)
-                GetLights(carController.GetComponentsInChildren<RCC_Light>());
+    //        if (lightDamage)
+    //            GetLights(carController.GetComponentsInChildren<RCC_Light>());
 
-            if (partDamage)
-                GetParts(carController.GetComponentsInChildren<RCC_DetachablePart>());
+    //        if (partDamage)
+    //            GetParts(carController.GetComponentsInChildren<RCC_DetachablePart>());
 
-            if (wheelDamage)
-                GetWheels(carController.GetComponentsInChildren<RCC_WheelCollider>());
+    //        if (wheelDamage)
+    //            GetWheels(carController.GetComponentsInChildren<RCC_WheelCollider>());
 
-        }
+    //    }
 
-    }
+    //}
 
     /// <summary>
     /// Gets all meshes.
